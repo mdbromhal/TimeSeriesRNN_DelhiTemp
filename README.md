@@ -18,3 +18,6 @@ ABSTRACT: Developing a Time Series RNN that predicts the temperatures in Delhi, 
 - Using MAE (Mean average error), loss, and value of loss to compare performance of each model 
 
 ![image](https://github.com/mdbromhal/TimeSeriesRNN_DelhiTemp/assets/138244964/366e6a0f-5a90-4b37-b065-3cd7a4302fdc)
+
+
+**References**: Géron, A. (2023). Hands-on machine learning with scikit-learn, Keras, and tensorflow: Concepts, tools, and techniques to build Intelligent Systems. O’Reilly Media. 
