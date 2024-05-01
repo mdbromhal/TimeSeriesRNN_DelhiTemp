@@ -1,6 +1,8 @@
 # TimeSeriesRNN_DelhiTemp
 ABSTRACT: Developing a Time Series RNN that predicts the temperatures in Delhi, India, based on past data.
 
+Source: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+
 ## 1. Plot the mean temperature
 
 ![image](https://github.com/mdbromhal/TimeSeriesRNN_DelhiTemp/assets/138244964/34b97697-0766-407b-a187-830687f430cd)
